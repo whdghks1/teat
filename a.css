@@ -1,0 +1,21 @@
+.name{
+    text-decoration: underline;
+}
+.school{
+    text-decoration: underline;
+}
+.number{
+    text-decoration: underline;
+}
+.as{
+    background-color:white;
+    border: 2px black solid;
+    text-align: left;
+    font-family: 'Nanum Pen Script', cursive; 
+    width: 250px;
+    font-weight: bold;  
+    padding-left: 25px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
